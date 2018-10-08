@@ -9,4 +9,4 @@ The framework includes:
 
 3.OpenGl abstractions such as VBO, VAO, shader, and OpenGLObject classes
 
-The framework also makes realistic simulates realistic lighting.
+The framework also simulates realistic lighting.
