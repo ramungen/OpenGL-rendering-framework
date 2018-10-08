@@ -7,6 +7,6 @@ The framework includes:
 
 2.a renderer
 
-3.OpenGl abstractions such as VBO, VAO, shader, and OpenGLObject classes
+3.OpenGl abstractions such as VBO, VAO, shader, Texture and OpenGLObject classes
 
 The framework also simulates realistic lighting.
